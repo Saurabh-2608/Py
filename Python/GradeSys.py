@@ -7,4 +7,4 @@ elif i<=89 and i>=80:
 elif i<=79 and i>=70:
 	print('Grade A ')
 else:
-	print(" Enter Valid Marks ")		
+	print("Marks is not in given Range")		

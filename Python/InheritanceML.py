@@ -1,6 +1,4 @@
 class MyClass:
-    
-    
     def fname(self):
         print("Saurabh")
     

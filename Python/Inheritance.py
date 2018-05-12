@@ -1,6 +1,5 @@
 class MyClass:
     
-    #doc = 'Test Class'
     def __init__(self,st,st1):
         self.st = st
         self.st1 = st1

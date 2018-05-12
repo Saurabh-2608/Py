@@ -1,8 +1,3 @@
-'''
-Created on 12-Jan-2018
-
-@author: Chino Steve
-'''
 # Program to print Pattern
 '''       1
         1 * 1
